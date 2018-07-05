@@ -7,4 +7,5 @@ public class Prueba {
 	private String apellidos;
 	private String dni;
 	private String dfdfdf;
+	private String edfdff;
 }
