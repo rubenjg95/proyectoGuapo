@@ -8,4 +8,10 @@ public class Prueba {
 	private String dni;
 	private String dfdfdf;
 	private String edfdff;
+	
+	public Prueba () {
+		
+		
+		
+	}
 }
